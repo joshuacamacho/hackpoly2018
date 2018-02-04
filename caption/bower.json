@@ -1,0 +1,20 @@
+{
+  "name": "caption",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Joshua Camacho <joshuajcamacho@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshuacamacho/hackpoly2018",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0"
+  }
+}
